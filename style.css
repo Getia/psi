@@ -90,7 +90,7 @@ display: none;
 }
 
 .hamburger-menu {
-  background-image: url(/images/icons/hamburger.png);
+  background-image: url(images/icons/hamburger.png);
   display: none;
 }
 
@@ -101,7 +101,7 @@ justify-content: space-between;
 }
 .hamburger-menu {
   display: inline-flex;
-  background-image: url(/images/icons/hamburger.png);
+  background-image: url(images/icons/hamburger.png);
   background-repeat: no-repeat;
   background-position: center;
   min-width: 3em;
@@ -118,14 +118,14 @@ justify-content: space-between;
 }
 
 .phone-icon {
-  background-image: url(/images/icons/phone-icon.png);
+  background-image: url(images/icons/phone-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 25px;
 }
 
 .email-icon {
-  background-image: url(/images/icons/email-icon.png);
+  background-image: url(images/icons/email-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 30px;
@@ -133,7 +133,7 @@ justify-content: space-between;
 }
 
 .user-icon {
-  background-image: url(/images/icons/user-icon.png);
+  background-image: url(images/icons/user-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 25px;
@@ -308,7 +308,7 @@ main {
 .servises-wrapper {
   display: flex;
 
- background-image: url(../images/bg_service.png);
+ background-image: url(images/bg_service.png);
  flex-wrap: wrap;
  justify-content: space-between;
 background-position: 14px -153px;
@@ -349,7 +349,7 @@ margin-top: -85px;
 }
 
 .about-wrapper {
- background-image: url(../images/bg_about.png);
+ background-image: url(images/bg_about.png);
   min-height: 760px;
   background-size: cover;
   background-position: center;
@@ -396,7 +396,7 @@ font-size: 22px;
 }
 
 .header-wrapper-about{
-  background-image: url(../images/about-bg.png);
+  background-image: url(images/about-bg.png);
   min-height: 750px;
   background-size: cover;
   background-position: center;
@@ -421,14 +421,14 @@ font-size: 46px;
 }
 
 .header-wrapper-cenu {
-  background-image: url(../images/price-bg.png);
+  background-image: url(images/price-bg.png);
   min-height: 750px;
   background-size: cover;
   background-position: center;
 }
 
 .header-wrapper-contacts {
-  background-image: url(../images/contacts-bg.png);
+  background-image: url(images/contacts-bg.png);
   min-height: 750px;
   background-size: cover;
   background-position: center;
