@@ -90,7 +90,7 @@ display: none;
 }
 
 .hamburger-menu {
-  background-image: url(../images/icons/hamburger.png);
+  background-image: url(/images/icons/hamburger.png);
   display: none;
 }
 
@@ -101,7 +101,7 @@ justify-content: space-between;
 }
 .hamburger-menu {
   display: inline-flex;
-  background-image: url(../images/icons/hamburger.png);
+  background-image: url(/images/icons/hamburger.png);
   background-repeat: no-repeat;
   background-position: center;
   min-width: 3em;
@@ -118,14 +118,14 @@ justify-content: space-between;
 }
 
 .phone-icon {
-  background-image: url(../images/icons/phone-icon.png);
+  background-image: url(/images/icons/phone-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 25px;
 }
 
 .email-icon {
-  background-image: url(../images/icons/email-icon.png);
+  background-image: url(/images/icons/email-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 30px;
@@ -133,7 +133,7 @@ justify-content: space-between;
 }
 
 .user-icon {
-  background-image: url(../images/icons/user-icon.png);
+  background-image: url(/images/icons/user-icon.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 25px;
