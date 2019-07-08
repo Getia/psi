@@ -54,7 +54,7 @@ body {
 }
 
 .header-wrapper {
-  background-image: url(../images/bg_main.png);
+  background-image: url(/images/bg_main.png);
   min-height: 750px;
   background-size: cover;
   background-position: center;
